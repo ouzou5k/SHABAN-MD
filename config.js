@@ -12,8 +12,8 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-// make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*",
+// make true if you want auto react on status 
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW 𓅓 Oᴜᴢᴏᴜ_officiel*",
 // set the auto reply massage on status reply
 WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
@@ -23,25 +23,25 @@ PREFIX: process.env.PREFIX || ">",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
-// add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
+BOT_NAME: process.env.BOT_NAME || "Ouzou_officiel-MD",
+// add bot name here for menu
+STICKER_NAME: process.env.STICKER_NAME || "Ouzou_officiel",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
-// make this true for custum emoji react    
+// make this true for custom emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,😝,😂",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
-// automatic delete links witho remove member 
+// automatic delete links without remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "22383267744",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
+OWNER_NAME: process.env.OWNER_NAME || "Ouzou_officiel",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Oᴜᴢᴏᴜ_officiel*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SHABAN-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *Ouzou_officiel-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -72,7 +72,7 @@ DEV: process.env.DEV || "22383267744",
 ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view
 ANTI_CALL: process.env.ANTI_CALL || "false",
-REJECT_MSG: process.env.REJECT_MSG || "*_SOORY MY BOSS IS BUSY PLEASE DONT CALL ME_*",
+REJECT_MSG: process.env.REJECT_MSG || "*_SOORY MY BOSS (Ouzou_officiel) IS BUSY PLEASE DONT CALL ME_*",
 ANTI_DELETE: process.env.ANTI_DELETE || "false",
 // set true false for anti delete
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", 
