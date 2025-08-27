@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Ouzou_officiel-MD Dashboard</title>
+</head>
+<body>
+  <h1>Bienvenue sur Ouzou_officiel-MD Dashboard</h1>
+  <button onclick="alert('QR Code ici')">Afficher QR Code</button>
+</body>
+</html>
